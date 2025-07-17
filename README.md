@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arslan-irshad-software-engineer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="arslna-irshad" height="40" width="40" /></a>
+<a href="https://teams.live.com/l/invite/FEAF3p7nK6Oqd0x0AI?v=g1" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/15047/15047490.png" alt="arslna-irshad" height="40" width="40" /></a>
 <a href="https://instagram.com/arsl.irshad" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="arslan-irshad" height="40" width="40" /></a>
 </p>
 
