@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/arslan-irshad-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hantash-nadeem" height="30" width="40" /></a>
-<a href="https://instagram.com/arsl.irshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik_hantash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arslan-irshad-software-engineer/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="arslna-irshad" height="40" width="40" /></a>
+<a href="https://instagram.com/arsl.irshad" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="arslan-irshad" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages,Tools and Libraries:</h3>
