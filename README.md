@@ -3,11 +3,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArslanIrshad105&show_icons=true&locale=en" alt="ArslanIrshad105"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArslanIrshad105&show_icons=true&locale=en&layout=compact" alt="ArslanIrshad105"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanIrshad105&locale=en" alt="ArslanIrshad105"/></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArslanIrshad105&show_icons=true&locale=en&layout=compact" alt="ArslanIrshad105"/></p>
+
 - 🌱 I'm currently learning **Node.js and Express.js**
+
+- 🌱 My Portfolio website : [https://arslan-portfolio-blue.vercel.app/](https://arslan-portfolio-blue.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArslanIrshad105?tab=repositories](https://github.com/ArslanIrshad105?tab=repositories)
 
@@ -33,7 +35,7 @@
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/js.png" alt="js" width="40" height="40"/>
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/typescript.png" alt="typescript" width="40" height="40"/>
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/react_js.svg" alt="react-js" width="40" height="40"/>
-    <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/next_js.Default" alt="next-js" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next-js" width="40" height="40"/>
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/redux.png" alt="redux" width="40" height="40"/>
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/react-query.svg" alt="react-query" width="40" height="40"/>
     <img src="https://arslan-portfolio-blue.vercel.app/assets/media/icons/express-js.png" alt="express-js" width="40" height="40"/>
